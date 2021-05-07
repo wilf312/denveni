@@ -1,0 +1,12 @@
+{
+  "shopList": [
+    {
+      "id": 1,
+      "shopName": "ローソン 札幌大通西十丁目",
+      "address": "北海道札幌市中央区大通西１０‐４"
+      "address": "https://www.e-map.ne.jp/p/lawson/dtl/161861/",
+      "seatCount": 4,
+      "wallPlugSocket": 5
+    }
+  ]
+}
